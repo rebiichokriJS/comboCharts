@@ -1,3 +1,7 @@
+## Screen schoot
+
+![myimage-alt-tag](https://github.com/Chokri31/comboCharts/blob/master/Combo%20Chart.png) 
+
 # ComboChart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
